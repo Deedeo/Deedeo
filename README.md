@@ -9,7 +9,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation ,
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning to design, develop, implement and maintain cloud computing systems.
-- 🌱 I'm experience with  HTML, CSS and Javascript.
+- 🌱 I'm experience with C, HTML, CSS and Javascript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing daradeo4u@gmail.com.
